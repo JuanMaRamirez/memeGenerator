@@ -1,7 +1,6 @@
+A Meme Generator Makes with React
 
-
-![Third](https://user-images.githubusercontent.com/94731166/177017045-705459a6-1b19-42c7-acf7-458731e49d75.png)
-
+![tird](https://user-images.githubusercontent.com/94731166/177017095-6752fe31-3f29-4b42-807f-d9818a91aee5.png)
 
 
 
